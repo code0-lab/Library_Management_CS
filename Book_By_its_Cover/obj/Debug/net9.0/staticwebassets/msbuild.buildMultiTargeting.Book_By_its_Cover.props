@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Book_By_its_Cover.props" />
+</Project>
